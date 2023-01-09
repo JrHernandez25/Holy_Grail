@@ -15,16 +15,16 @@ h1{
     font-weight: bold;
 }
 aside{
-    width: 33.15%;
+    /* width: 33.15%; */
     height: 505px;
     background-color: lightblue;
 }
 div{
-    width: 33%;
+    /* width: 33%; */
     height: 505px;
 }
 section{
-    width: 33.15%;
+    /* width: 33.15%; */
     height: 505px;
     background-color: lightblue;
 }
